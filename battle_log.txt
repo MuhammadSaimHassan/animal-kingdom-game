@@ -1,0 +1,15 @@
+2025-05-15 13:55:59 | VICTORY | Player: Griffin vs Enemy: Wild Dragon | Type: Guild War | Arena: Trapped | Score: 10-5
+2025-05-15 14:14:49 | DEFEAT | Player: Griffin vs Enemy: Wild Griffin | Type: Guild War | Arena: Trapped | Score: 0-10
+2025-05-15 14:15:10 | VICTORY | Player: Unicorn vs Enemy: Wild Griffin | Type: Guild War | Arena: Trapped | Score: 9-8
+2025-05-15 14:28:05 | VICTORY | Player: Dragon vs Enemy: Wild Phoenix | Type: Guild War | Arena: Trapped | Score: 10-0
+2025-05-15 15:56:25 | DEFEAT | Player: Griffin vs Enemy: Wild Unicorn | Type: Guild War | Arena: Trapped | Score: 5-11
+2025-05-15 15:56:39 | DEFEAT | Player: Griffin vs Enemy: Wild Phoenix | Type: Guild War | Arena: Trapped | Score: 0-7
+2025-05-15 15:57:20 | DEFEAT | Player: Dragon vs Enemy: Wild Dragon | Type: Guild War | Arena: Trapped | Score: 0-8
+2025-05-15 15:58:37 | DEFEAT | Player: Unicorn vs Enemy: Wild Griffin | Type: Guild War | Arena: Trapped | Score: 1-10
+2025-05-15 16:08:49 | DEFEAT | Player: Dragon vs Enemy: Wild Unicorn | Type: Guild War | Arena: Trapped | Score: 2-10
+2025-05-15 18:57:52 | DEFEAT | Player: Dragon vs Enemy: Wild Dragon | Type: Guild War | Arena: Trapped | Score: 0-8
+2025-05-15 18:57:59 | DEFEAT | Player: Dragon vs Enemy: Wild Griffin | Type: Guild War | Arena: Trapped | Score: 0-5
+2025-05-15 18:58:33 | VICTORY | Player: Phoenix vs Enemy: Wild Phoenix | Type: Guild War | Arena: Trapped | Score: 9-4
+2025-05-15 20:52:46 | DEFEAT | Player: Dragon vs Enemy: Wild Griffin | Type: Guild War | Arena: Trapped | Score: 0-10
+2025-05-15 22:37:27 | DEFEAT | Player: Dragon vs Enemy: Wild Unicorn | Type: Guild War | Arena: Trapped | Score: 2-10
+2025-05-15 22:37:48 | DEFEAT | Player: Unicorn vs Enemy: Wild Griffin | Type: Guild War | Arena: Trapped | Score: 2-10
